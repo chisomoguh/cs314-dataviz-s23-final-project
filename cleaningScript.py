@@ -65,32 +65,90 @@ def creatingCSV():
     for row in csv_reader:
         if counter == 0:
             print(f'{row[0]},{row[38]},{row[1]},{row[3]},{row[4]},{row[5]},{row[11]},{row[16]},{row[36]}')
-        # elif counter == 100:
-        #     break
-        # elif counter == 9051:
-        #     break
         elif counter != 0:
             print(f'{row[0]},{region[row[38]]},{age[row[1]]},{hisp[row[3]]},{race[row[4]]},{sex[row[5]]},{diagnosis[row[11]]},{smi[row[16]]},{states[row[36]]}')
-        # elif counter != 0 and row[36] == "1":
-        #     print(f'{states[row[36]]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]}')
+        
         counter += 1
 
     f.close()
 
-def lineCounter(fileName):
-    # print(fileName[1])
-    # f = open(f'./{fileName[1]}')
-    f = open('./raw_files/mhcld-puf-2019-csv.csv')
+def divideByRegion(year):
+    f = open(f'./{year}data.csv', "r")
+    # the regions - "0": "Other", "1": "Northeast", "2": "Midwest", "3": "South", "4": "West"
+    southFile = open(f'south{year}data.csv', "w")
+    neFile = open(f'northeast{year}data.csv', "w")
+    mdFile = open(f'midwest{year}data.csv', "w")
+    westFile = open(f'west{year}data.csv', "w")
+    otherFile = open(f'other{year}data.csv', "w")
     csv_reader = csv.reader(f, delimiter=',')
     counter = 0
     for row in csv_reader:
+        if counter == 0:
+            southFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+            mdFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+            neFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+            westFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+            otherFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+        
+        if row[1] == "South":
+            southFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+        elif row[1] == "Midwest":
+            mdFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+        elif row[1] == "Northeast":
+            neFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+        elif row[1] == "West":
+            westFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+        elif row[1] == "Other":
+            otherFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
         counter += 1
+
     f.close()
-    print(f'Number of lines: {counter}')
-    # Number of lines: 6548373 [2019data]
+    southFile.close()
+    neFile.close()
+    mdFile.close()
+    westFile.close()
+    otherFile.close()
+
+def divideBySex(fileName):
+    file = open(fileName, "r")
+    mFile = open(f'male-{fileName}', "w")
+    fmFile = open(f'female-{fileName}', "w")
+    oFile = open(f'other-{fileName}', "w")
+
+    csv_reader = csv.reader(file, delimiter=',')
+    counter = 0
+    for row in csv_reader:
+        if counter == 0:
+            mFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+            fmFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+            oFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+
+        if row[5] == "Male":
+            mFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+        elif row[5] == "Female":
+            fmFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+        else:
+            oFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
+
+        counter += 1
+
+    file.close()
+    mFile.close()
+    fmFile.close()
+    oFile.close()
+    
 
 if __name__ == "__main__":
     # main()
-    lineCounter(sys.argv)
+    # lineCounter(sys.argv)
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "region":
+            divideByRegion(int(sys.argv[2]))
+        elif sys.argv[1] == "gender":
+            # lineCounter(sys.argv[2])
+            divideBySex(sys.argv[2])
+        else:
+            print("sorry!")
+    # something()
 #     print 'Number of arguments:', len(sys.argv), 'arguments.'
 # print 'Argument List:', str(sys.argv)

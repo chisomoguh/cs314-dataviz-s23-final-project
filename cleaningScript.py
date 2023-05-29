@@ -13,6 +13,9 @@ Is there other types of missing data that's not so obvious?
 
 import csv, sys
 
+def main():
+    print("this is the main function")
+
 # this can be expanded on...
 states = {"1":"Alabama", "2":"Alaska", "4": "Arizona", "5": "Arkansas",
           "6": "California", "8": "Colorado", "9": "Connecticut",
@@ -50,36 +53,36 @@ diagnosis = {"1": "Trauma/stress-related", "2": "Anxiety", "3": "ADHD", "4": "Co
        "9": "Pervasive Developmental", "10": "Personality", "11": "Schizophrenia/Other Psychotic",
        "12": "Alcohol/Substance Abuse", "13": "Other", "-9": "Invalid"}
 
-def main():
-    creatingCSV()
-
 '''
 YEAR: 0     AGE: 1      ETHNIC: 3       RACE: 4     GENDER: 5
 MH1: 11     SMI/SED: 16      STATEFIP: 36       REGION: 38
 '''
     
-def creatingCSV():
-    f = open('./raw_files/mhcld-puf-2019-csv.csv')
+def creatingCSV(year):
+    f = open(f'./raw_files/mhcld-puf-{year}-csv.csv', "r")
+    filteredData = open(f'{year}data.csv', "w")
+
     csv_reader = csv.reader(f, delimiter=',')
     counter = 0
+
     for row in csv_reader:
         if counter == 0:
-            print(f'{row[0]},{row[38]},{row[1]},{row[3]},{row[4]},{row[5]},{row[11]},{row[16]},{row[36]}')
-        elif counter != 0:
-            print(f'{row[0]},{region[row[38]]},{age[row[1]]},{hisp[row[3]]},{race[row[4]]},{sex[row[5]]},{diagnosis[row[11]]},{smi[row[16]]},{states[row[36]]}')
-        
+            filteredData.write(f'{row[0]},{row[38]},{row[1]},{row[3]},{row[4]},{row[5]},{row[11]},{row[16]},{row[36]}\n')
+        else:
+            filteredData.write(f'{row[0]},{region[row[38]]},{age[row[1]]},{hisp[row[3]]},{race[row[4]]},{sex[row[5]]},{diagnosis[row[11]]},{smi[row[16]]},{states[row[36]]}\n')
         counter += 1
 
     f.close()
+    filteredData.close()
 
 def divideByRegion(year):
     f = open(f'./{year}data.csv', "r")
-    # the regions - "0": "Other", "1": "Northeast", "2": "Midwest", "3": "South", "4": "West"
     southFile = open(f'south{year}data.csv', "w")
     neFile = open(f'northeast{year}data.csv', "w")
     mdFile = open(f'midwest{year}data.csv', "w")
     westFile = open(f'west{year}data.csv', "w")
     otherFile = open(f'other{year}data.csv', "w")
+
     csv_reader = csv.reader(f, delimiter=',')
     counter = 0
     for row in csv_reader:
@@ -127,7 +130,7 @@ def divideBySex(fileName):
             mFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
         elif row[5] == "Female":
             fmFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
-        else:
+        elif row[5] == "N/A":
             oFile.write(f'{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]}\n')
 
         counter += 1
@@ -139,16 +142,10 @@ def divideBySex(fileName):
     
 
 if __name__ == "__main__":
-    # main()
-    # lineCounter(sys.argv)
     if len(sys.argv) > 1:
         if sys.argv[1] == "region":
             divideByRegion(int(sys.argv[2]))
         elif sys.argv[1] == "gender":
-            # lineCounter(sys.argv[2])
             divideBySex(sys.argv[2])
-        else:
-            print("sorry!")
-    # something()
-#     print 'Number of arguments:', len(sys.argv), 'arguments.'
-# print 'Argument List:', str(sys.argv)
+        elif sys.argv[1] == "create":
+            creatingCSV(int(sys.argv[2]))

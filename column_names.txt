@@ -1,6 +1,6 @@
 YEAR,               YES
 AGE,                YES
-EDUC,               YES
+EDUC,               
 ETHNIC,             YES
 RACE,               YES
 GENDER,             YES
@@ -14,11 +14,11 @@ MH2,
 MH3, 
 SUB, 
 MARSTAT, 
-SMISED, 
+SMISED,             YES
 SAP, 
-EMPLOY,             YES
+EMPLOY,             
 DETNLF, 
-VETERAN,            YES
+VETERAN,            
 LIVARAG, 
 NUMMHS, 
 TRAUSTREFLG, 
@@ -34,7 +34,7 @@ PERSONFLG,
 SCHIZOFLG, 
 ALCSUBFLG, 
 OTHERDISFLG, 
-STATEFIP, 
+STATEFIP,          YES
 DIVISION, 
-REGION, 
+REGION,            YES
 CASEID

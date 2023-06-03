@@ -1,6 +1,6 @@
 '''
 cleaningScript.py
-    Reads, traverses, cleans, and a returns a csv file for use to use
+    Reads, traverses, cleans, and a returns a csv file for use
 '''
 
 """

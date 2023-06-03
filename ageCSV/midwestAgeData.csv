@@ -1,0 +1,911 @@
+YEAR,MH1,AGE,COUNT
+2016,Trauma/stress-related,0-11,47320
+2016,Trauma/stress-related,12-14,16838
+2016,Trauma/stress-related,15-17,14341
+2016,Trauma/stress-related,18-20,6689
+2016,Trauma/stress-related,21-24,8161
+2016,Trauma/stress-related,25-29,12173
+2016,Trauma/stress-related,30-34,12145
+2016,Trauma/stress-related,35-39,10502
+2016,Trauma/stress-related,40-44,8739
+2016,Trauma/stress-related,45-49,7908
+2016,Trauma/stress-related,50-54,7505
+2016,Trauma/stress-related,55-59,5608
+2016,Trauma/stress-related,60-64,3358
+2016,Trauma/stress-related,65+,3302
+2016,Anxiety,0-11,15481
+2016,Anxiety,12-14,8022
+2016,Anxiety,15-17,8965
+2016,Anxiety,18-20,6097
+2016,Anxiety,21-24,8809
+2016,Anxiety,25-29,13806
+2016,Anxiety,30-34,13437
+2016,Anxiety,35-39,11425
+2016,Anxiety,40-44,9069
+2016,Anxiety,45-49,8535
+2016,Anxiety,50-54,8521
+2016,Anxiety,55-59,6819
+2016,Anxiety,60-64,4296
+2016,Anxiety,65+,4190
+2016,ADHD,0-11,48682
+2016,ADHD,12-14,20720
+2016,ADHD,15-17,13745
+2016,ADHD,18-20,5210
+2016,ADHD,21-24,3619
+2016,ADHD,25-29,3990
+2016,ADHD,30-34,3005
+2016,ADHD,35-39,2115
+2016,ADHD,40-44,1402
+2016,ADHD,45-49,1083
+2016,ADHD,50-54,903
+2016,ADHD,55-59,559
+2016,ADHD,60-64,356
+2016,ADHD,65+,101
+2016,Conduct,0-11,17307
+2016,Conduct,12-14,3792
+2016,Conduct,15-17,3999
+2016,Conduct,18-20,1000
+2016,Conduct,21-24,378
+2016,Conduct,25-29,338
+2016,Conduct,30-34,255
+2016,Conduct,35-39,159
+2016,Conduct,40-44,165
+2016,Conduct,45-49,121
+2016,Conduct,50-54,123
+2016,Conduct,55-59,82
+2016,Conduct,60-64,65
+2016,Conduct,65+,59
+2016,Delirium/dementia,0-11,136
+2016,Delirium/dementia,12-14,63
+2016,Delirium/dementia,15-17,67
+2016,Delirium/dementia,18-20,62
+2016,Delirium/dementia,21-24,79
+2016,Delirium/dementia,25-29,119
+2016,Delirium/dementia,30-34,125
+2016,Delirium/dementia,35-39,102
+2016,Delirium/dementia,40-44,131
+2016,Delirium/dementia,45-49,187
+2016,Delirium/dementia,50-54,246
+2016,Delirium/dementia,55-59,308
+2016,Delirium/dementia,60-64,322
+2016,Delirium/dementia,65+,1381
+2016,Bipolar,0-11,3154
+2016,Bipolar,12-14,3561
+2016,Bipolar,15-17,5601
+2016,Bipolar,18-20,5343
+2016,Bipolar,21-24,8868
+2016,Bipolar,25-29,13386
+2016,Bipolar,30-34,14393
+2016,Bipolar,35-39,14312
+2016,Bipolar,40-44,12775
+2016,Bipolar,45-49,12807
+2016,Bipolar,50-54,12952
+2016,Bipolar,55-59,10045
+2016,Bipolar,60-64,5902
+2016,Bipolar,65+,4438
+2016,Depressive,0-11,6890
+2016,Depressive,12-14,13469
+2016,Depressive,15-17,21763
+2016,Depressive,18-20,13552
+2016,Depressive,21-24,17381
+2016,Depressive,25-29,25197
+2016,Depressive,30-34,25403
+2016,Depressive,35-39,24305
+2016,Depressive,40-44,23393
+2016,Depressive,45-49,25704
+2016,Depressive,50-54,29972
+2016,Depressive,55-59,26223
+2016,Depressive,60-64,16386
+2016,Depressive,65+,14899
+2016,Oppositional Defiant,0-11,13025
+2016,Oppositional Defiant,12-14,6890
+2016,Oppositional Defiant,15-17,6116
+2016,Oppositional Defiant,18-20,1211
+2016,Oppositional Defiant,21-24,227
+2016,Oppositional Defiant,25-29,186
+2016,Oppositional Defiant,30-34,65
+2016,Oppositional Defiant,35-39,20
+2016,Oppositional Defiant,40-44,21
+2016,Oppositional Defiant,45-49,7
+2016,Oppositional Defiant,50-54,13
+2016,Oppositional Defiant,55-59,5
+2016,Oppositional Defiant,60-64,4
+2016,Oppositional Defiant,65+,5
+2016,Pervasive Developmental,0-11,5364
+2016,Pervasive Developmental,12-14,1865
+2016,Pervasive Developmental,15-17,1576
+2016,Pervasive Developmental,18-20,1087
+2016,Pervasive Developmental,21-24,990
+2016,Pervasive Developmental,25-29,753
+2016,Pervasive Developmental,30-34,445
+2016,Pervasive Developmental,35-39,250
+2016,Pervasive Developmental,40-44,164
+2016,Pervasive Developmental,45-49,142
+2016,Pervasive Developmental,50-54,111
+2016,Pervasive Developmental,55-59,108
+2016,Pervasive Developmental,60-64,57
+2016,Pervasive Developmental,65+,44
+2016,Personality,0-11,52
+2016,Personality,12-14,46
+2016,Personality,15-17,155
+2016,Personality,18-20,399
+2016,Personality,21-24,903
+2016,Personality,25-29,1385
+2016,Personality,30-34,1448
+2016,Personality,35-39,1228
+2016,Personality,40-44,1033
+2016,Personality,45-49,973
+2016,Personality,50-54,1085
+2016,Personality,55-59,849
+2016,Personality,60-64,514
+2016,Personality,65+,407
+2016,Schizophrenia/Other Psychotic,0-11,243
+2016,Schizophrenia/Other Psychotic,12-14,282
+2016,Schizophrenia/Other Psychotic,15-17,633
+2016,Schizophrenia/Other Psychotic,18-20,1943
+2016,Schizophrenia/Other Psychotic,21-24,5162
+2016,Schizophrenia/Other Psychotic,25-29,8235
+2016,Schizophrenia/Other Psychotic,30-34,9262
+2016,Schizophrenia/Other Psychotic,35-39,9512
+2016,Schizophrenia/Other Psychotic,40-44,9198
+2016,Schizophrenia/Other Psychotic,45-49,10460
+2016,Schizophrenia/Other Psychotic,50-54,13580
+2016,Schizophrenia/Other Psychotic,55-59,13347
+2016,Schizophrenia/Other Psychotic,60-64,9069
+2016,Schizophrenia/Other Psychotic,65+,8345
+2016,Alcohol/Substance Abuse,0-11,14
+2016,Alcohol/Substance Abuse,12-14,128
+2016,Alcohol/Substance Abuse,15-17,801
+2016,Alcohol/Substance Abuse,18-20,862
+2016,Alcohol/Substance Abuse,21-24,2522
+2016,Alcohol/Substance Abuse,25-29,4515
+2016,Alcohol/Substance Abuse,30-34,4577
+2016,Alcohol/Substance Abuse,35-39,3780
+2016,Alcohol/Substance Abuse,40-44,2850
+2016,Alcohol/Substance Abuse,45-49,2666
+2016,Alcohol/Substance Abuse,50-54,2854
+2016,Alcohol/Substance Abuse,55-59,2023
+2016,Alcohol/Substance Abuse,60-64,902
+2016,Alcohol/Substance Abuse,65+,242
+2016,Other,0-11,12085
+2016,Other,12-14,5560
+2016,Other,15-17,6599
+2016,Other,18-20,3879
+2016,Other,21-24,4787
+2016,Other,25-29,6047
+2016,Other,30-34,5564
+2016,Other,35-39,4685
+2016,Other,40-44,3983
+2016,Other,45-49,3916
+2016,Other,50-54,4075
+2016,Other,55-59,3307
+2016,Other,60-64,2070
+2016,Other,65+,2571
+2017,Trauma/stress-related,0-11,52430
+2017,Trauma/stress-related,12-14,18514
+2017,Trauma/stress-related,15-17,16418
+2017,Trauma/stress-related,18-20,8070
+2017,Trauma/stress-related,21-24,9746
+2017,Trauma/stress-related,25-29,14815
+2017,Trauma/stress-related,30-34,14529
+2017,Trauma/stress-related,35-39,12752
+2017,Trauma/stress-related,40-44,9907
+2017,Trauma/stress-related,45-49,9143
+2017,Trauma/stress-related,50-54,8433
+2017,Trauma/stress-related,55-59,6563
+2017,Trauma/stress-related,60-64,3878
+2017,Trauma/stress-related,65+,3961
+2017,Anxiety,0-11,20056
+2017,Anxiety,12-14,10687
+2017,Anxiety,15-17,12406
+2017,Anxiety,18-20,8669
+2017,Anxiety,21-24,11906
+2017,Anxiety,25-29,18634
+2017,Anxiety,30-34,18151
+2017,Anxiety,35-39,15870
+2017,Anxiety,40-44,11971
+2017,Anxiety,45-49,11397
+2017,Anxiety,50-54,11292
+2017,Anxiety,55-59,9553
+2017,Anxiety,60-64,6046
+2017,Anxiety,65+,5593
+2017,ADHD,0-11,56311
+2017,ADHD,12-14,23082
+2017,ADHD,15-17,15620
+2017,ADHD,18-20,5780
+2017,ADHD,21-24,3965
+2017,ADHD,25-29,4575
+2017,ADHD,30-34,3435
+2017,ADHD,35-39,2563
+2017,ADHD,40-44,1576
+2017,ADHD,45-49,1248
+2017,ADHD,50-54,981
+2017,ADHD,55-59,716
+2017,ADHD,60-64,409
+2017,ADHD,65+,171
+2017,Conduct,0-11,15043
+2017,Conduct,12-14,3685
+2017,Conduct,15-17,4369
+2017,Conduct,18-20,1059
+2017,Conduct,21-24,490
+2017,Conduct,25-29,535
+2017,Conduct,30-34,420
+2017,Conduct,35-39,315
+2017,Conduct,40-44,235
+2017,Conduct,45-49,202
+2017,Conduct,50-54,184
+2017,Conduct,55-59,120
+2017,Conduct,60-64,93
+2017,Conduct,65+,98
+2017,Delirium/dementia,0-11,160
+2017,Delirium/dementia,12-14,42
+2017,Delirium/dementia,15-17,43
+2017,Delirium/dementia,18-20,39
+2017,Delirium/dementia,21-24,37
+2017,Delirium/dementia,25-29,45
+2017,Delirium/dementia,30-34,53
+2017,Delirium/dementia,35-39,54
+2017,Delirium/dementia,40-44,51
+2017,Delirium/dementia,45-49,78
+2017,Delirium/dementia,50-54,126
+2017,Delirium/dementia,55-59,146
+2017,Delirium/dementia,60-64,168
+2017,Delirium/dementia,65+,798
+2017,Bipolar,0-11,1078
+2017,Bipolar,12-14,1913
+2017,Bipolar,15-17,3834
+2017,Bipolar,18-20,5274
+2017,Bipolar,21-24,9586
+2017,Bipolar,25-29,15430
+2017,Bipolar,30-34,16708
+2017,Bipolar,35-39,17023
+2017,Bipolar,40-44,15149
+2017,Bipolar,45-49,15462
+2017,Bipolar,50-54,15466
+2017,Bipolar,55-59,12548
+2017,Bipolar,60-64,7598
+2017,Bipolar,65+,5623
+2017,Depressive,0-11,7792
+2017,Depressive,12-14,15594
+2017,Depressive,15-17,24731
+2017,Depressive,18-20,16018
+2017,Depressive,21-24,19969
+2017,Depressive,25-29,28577
+2017,Depressive,30-34,27817
+2017,Depressive,35-39,26895
+2017,Depressive,40-44,24575
+2017,Depressive,45-49,27599
+2017,Depressive,50-54,31448
+2017,Depressive,55-59,28802
+2017,Depressive,60-64,18536
+2017,Depressive,65+,16449
+2017,Oppositional Defiant,0-11,16158
+2017,Oppositional Defiant,12-14,8362
+2017,Oppositional Defiant,15-17,6945
+2017,Oppositional Defiant,18-20,1274
+2017,Oppositional Defiant,21-24,267
+2017,Oppositional Defiant,25-29,116
+2017,Oppositional Defiant,30-34,70
+2017,Oppositional Defiant,35-39,32
+2017,Oppositional Defiant,40-44,23
+2017,Oppositional Defiant,45-49,18
+2017,Oppositional Defiant,50-54,14
+2017,Oppositional Defiant,55-59,9
+2017,Oppositional Defiant,60-64,8
+2017,Oppositional Defiant,65+,9
+2017,Pervasive Developmental,0-11,7064
+2017,Pervasive Developmental,12-14,2036
+2017,Pervasive Developmental,15-17,1845
+2017,Pervasive Developmental,18-20,1584
+2017,Pervasive Developmental,21-24,1716
+2017,Pervasive Developmental,25-29,1326
+2017,Pervasive Developmental,30-34,718
+2017,Pervasive Developmental,35-39,396
+2017,Pervasive Developmental,40-44,269
+2017,Pervasive Developmental,45-49,229
+2017,Pervasive Developmental,50-54,203
+2017,Pervasive Developmental,55-59,181
+2017,Pervasive Developmental,60-64,88
+2017,Pervasive Developmental,65+,80
+2017,Personality,0-11,49
+2017,Personality,12-14,59
+2017,Personality,15-17,220
+2017,Personality,18-20,701
+2017,Personality,21-24,1413
+2017,Personality,25-29,2199
+2017,Personality,30-34,2116
+2017,Personality,35-39,1790
+2017,Personality,40-44,1525
+2017,Personality,45-49,1479
+2017,Personality,50-54,1393
+2017,Personality,55-59,1204
+2017,Personality,60-64,721
+2017,Personality,65+,608
+2017,Schizophrenia/Other Psychotic,0-11,277
+2017,Schizophrenia/Other Psychotic,12-14,352
+2017,Schizophrenia/Other Psychotic,15-17,887
+2017,Schizophrenia/Other Psychotic,18-20,2689
+2017,Schizophrenia/Other Psychotic,21-24,6848
+2017,Schizophrenia/Other Psychotic,25-29,11349
+2017,Schizophrenia/Other Psychotic,30-34,12721
+2017,Schizophrenia/Other Psychotic,35-39,13456
+2017,Schizophrenia/Other Psychotic,40-44,12588
+2017,Schizophrenia/Other Psychotic,45-49,14287
+2017,Schizophrenia/Other Psychotic,50-54,17837
+2017,Schizophrenia/Other Psychotic,55-59,18695
+2017,Schizophrenia/Other Psychotic,60-64,13047
+2017,Schizophrenia/Other Psychotic,65+,11631
+2017,Alcohol/Substance Abuse,0-11,6
+2017,Alcohol/Substance Abuse,12-14,14
+2017,Alcohol/Substance Abuse,15-17,83
+2017,Alcohol/Substance Abuse,18-20,132
+2017,Alcohol/Substance Abuse,21-24,336
+2017,Alcohol/Substance Abuse,25-29,568
+2017,Alcohol/Substance Abuse,30-34,598
+2017,Alcohol/Substance Abuse,35-39,461
+2017,Alcohol/Substance Abuse,40-44,401
+2017,Alcohol/Substance Abuse,45-49,367
+2017,Alcohol/Substance Abuse,50-54,359
+2017,Alcohol/Substance Abuse,55-59,280
+2017,Alcohol/Substance Abuse,60-64,108
+2017,Alcohol/Substance Abuse,65+,52
+2017,Other,0-11,14735
+2017,Other,12-14,7953
+2017,Other,15-17,9667
+2017,Other,18-20,6159
+2017,Other,21-24,7721
+2017,Other,25-29,10591
+2017,Other,30-34,9288
+2017,Other,35-39,8086
+2017,Other,40-44,6756
+2017,Other,45-49,7091
+2017,Other,50-54,7406
+2017,Other,55-59,6816
+2017,Other,60-64,4484
+2017,Other,65+,4960
+2018,Trauma/stress-related,0-11,68228
+2018,Trauma/stress-related,12-14,23443
+2018,Trauma/stress-related,15-17,19443
+2018,Trauma/stress-related,18-20,9065
+2018,Trauma/stress-related,21-24,10525
+2018,Trauma/stress-related,25-29,16713
+2018,Trauma/stress-related,30-34,16231
+2018,Trauma/stress-related,35-39,14723
+2018,Trauma/stress-related,40-44,11238
+2018,Trauma/stress-related,45-49,10226
+2018,Trauma/stress-related,50-54,9217
+2018,Trauma/stress-related,55-59,7598
+2018,Trauma/stress-related,60-64,4593
+2018,Trauma/stress-related,65+,4883
+2018,Anxiety,0-11,24480
+2018,Anxiety,12-14,13641
+2018,Anxiety,15-17,15544
+2018,Anxiety,18-20,11306
+2018,Anxiety,21-24,14509
+2018,Anxiety,25-29,23272
+2018,Anxiety,30-34,22158
+2018,Anxiety,35-39,19118
+2018,Anxiety,40-44,13941
+2018,Anxiety,45-49,13190
+2018,Anxiety,50-54,12337
+2018,Anxiety,55-59,11193
+2018,Anxiety,60-64,7323
+2018,Anxiety,65+,7516
+2018,ADHD,0-11,66148
+2018,ADHD,12-14,27142
+2018,ADHD,15-17,17320
+2018,ADHD,18-20,6557
+2018,ADHD,21-24,4224
+2018,ADHD,25-29,5219
+2018,ADHD,30-34,3881
+2018,ADHD,35-39,2738
+2018,ADHD,40-44,1667
+2018,ADHD,45-49,1347
+2018,ADHD,50-54,969
+2018,ADHD,55-59,762
+2018,ADHD,60-64,464
+2018,ADHD,65+,211
+2018,Conduct,0-11,14350
+2018,Conduct,12-14,3862
+2018,Conduct,15-17,4017
+2018,Conduct,18-20,1090
+2018,Conduct,21-24,469
+2018,Conduct,25-29,533
+2018,Conduct,30-34,409
+2018,Conduct,35-39,320
+2018,Conduct,40-44,211
+2018,Conduct,45-49,206
+2018,Conduct,50-54,177
+2018,Conduct,55-59,139
+2018,Conduct,60-64,101
+2018,Conduct,65+,122
+2018,Delirium/dementia,0-11,258
+2018,Delirium/dementia,12-14,109
+2018,Delirium/dementia,15-17,111
+2018,Delirium/dementia,18-20,84
+2018,Delirium/dementia,21-24,80
+2018,Delirium/dementia,25-29,108
+2018,Delirium/dementia,30-34,119
+2018,Delirium/dementia,35-39,127
+2018,Delirium/dementia,40-44,82
+2018,Delirium/dementia,45-49,140
+2018,Delirium/dementia,50-54,188
+2018,Delirium/dementia,55-59,263
+2018,Delirium/dementia,60-64,251
+2018,Delirium/dementia,65+,1018
+2018,Bipolar,0-11,813
+2018,Bipolar,12-14,1565
+2018,Bipolar,15-17,3432
+2018,Bipolar,18-20,5467
+2018,Bipolar,21-24,9874
+2018,Bipolar,25-29,16896
+2018,Bipolar,30-34,18052
+2018,Bipolar,35-39,18722
+2018,Bipolar,40-44,16296
+2018,Bipolar,45-49,16712
+2018,Bipolar,50-54,16600
+2018,Bipolar,55-59,14441
+2018,Bipolar,60-64,8901
+2018,Bipolar,65+,6776
+2018,Depressive,0-11,8881
+2018,Depressive,12-14,18274
+2018,Depressive,15-17,29194
+2018,Depressive,18-20,19994
+2018,Depressive,21-24,23925
+2018,Depressive,25-29,34925
+2018,Depressive,30-34,33100
+2018,Depressive,35-39,31836
+2018,Depressive,40-44,28375
+2018,Depressive,45-49,31950
+2018,Depressive,50-54,35584
+2018,Depressive,55-59,34501
+2018,Depressive,60-64,23366
+2018,Depressive,65+,22083
+2018,Oppositional Defiant,0-11,17909
+2018,Oppositional Defiant,12-14,8779
+2018,Oppositional Defiant,15-17,6919
+2018,Oppositional Defiant,18-20,1209
+2018,Oppositional Defiant,21-24,283
+2018,Oppositional Defiant,25-29,126
+2018,Oppositional Defiant,30-34,66
+2018,Oppositional Defiant,35-39,51
+2018,Oppositional Defiant,40-44,28
+2018,Oppositional Defiant,45-49,17
+2018,Oppositional Defiant,50-54,15
+2018,Oppositional Defiant,55-59,7
+2018,Oppositional Defiant,60-64,4
+2018,Oppositional Defiant,65+,10
+2018,Pervasive Developmental,0-11,9468
+2018,Pervasive Developmental,12-14,2759
+2018,Pervasive Developmental,15-17,2515
+2018,Pervasive Developmental,18-20,2119
+2018,Pervasive Developmental,21-24,2068
+2018,Pervasive Developmental,25-29,1844
+2018,Pervasive Developmental,30-34,976
+2018,Pervasive Developmental,35-39,551
+2018,Pervasive Developmental,40-44,354
+2018,Pervasive Developmental,45-49,289
+2018,Pervasive Developmental,50-54,228
+2018,Pervasive Developmental,55-59,208
+2018,Pervasive Developmental,60-64,129
+2018,Pervasive Developmental,65+,109
+2018,Personality,0-11,42
+2018,Personality,12-14,84
+2018,Personality,15-17,228
+2018,Personality,18-20,987
+2018,Personality,21-24,1746
+2018,Personality,25-29,2675
+2018,Personality,30-34,2474
+2018,Personality,35-39,2168
+2018,Personality,40-44,1643
+2018,Personality,45-49,1585
+2018,Personality,50-54,1470
+2018,Personality,55-59,1263
+2018,Personality,60-64,793
+2018,Personality,65+,783
+2018,Schizophrenia/Other Psychotic,0-11,237
+2018,Schizophrenia/Other Psychotic,12-14,357
+2018,Schizophrenia/Other Psychotic,15-17,911
+2018,Schizophrenia/Other Psychotic,18-20,2801
+2018,Schizophrenia/Other Psychotic,21-24,7240
+2018,Schizophrenia/Other Psychotic,25-29,12979
+2018,Schizophrenia/Other Psychotic,30-34,13945
+2018,Schizophrenia/Other Psychotic,35-39,15101
+2018,Schizophrenia/Other Psychotic,40-44,13760
+2018,Schizophrenia/Other Psychotic,45-49,15534
+2018,Schizophrenia/Other Psychotic,50-54,18277
+2018,Schizophrenia/Other Psychotic,55-59,20602
+2018,Schizophrenia/Other Psychotic,60-64,15062
+2018,Schizophrenia/Other Psychotic,65+,14041
+2018,Alcohol/Substance Abuse,0-11,11
+2018,Alcohol/Substance Abuse,12-14,13
+2018,Alcohol/Substance Abuse,15-17,104
+2018,Alcohol/Substance Abuse,18-20,143
+2018,Alcohol/Substance Abuse,21-24,302
+2018,Alcohol/Substance Abuse,25-29,576
+2018,Alcohol/Substance Abuse,30-34,566
+2018,Alcohol/Substance Abuse,35-39,463
+2018,Alcohol/Substance Abuse,40-44,358
+2018,Alcohol/Substance Abuse,45-49,317
+2018,Alcohol/Substance Abuse,50-54,293
+2018,Alcohol/Substance Abuse,55-59,256
+2018,Alcohol/Substance Abuse,60-64,121
+2018,Alcohol/Substance Abuse,65+,54
+2018,Other,0-11,19418
+2018,Other,12-14,10063
+2018,Other,15-17,11795
+2018,Other,18-20,7549
+2018,Other,21-24,9124
+2018,Other,25-29,13135
+2018,Other,30-34,10876
+2018,Other,35-39,9608
+2018,Other,40-44,7825
+2018,Other,45-49,7969
+2018,Other,50-54,8143
+2018,Other,55-59,7818
+2018,Other,60-64,5582
+2018,Other,65+,6081
+2019,Trauma/stress-related,0-11,80964
+2019,Trauma/stress-related,12-14,28184
+2019,Trauma/stress-related,15-17,23195
+2019,Trauma/stress-related,18-20,11144
+2019,Trauma/stress-related,21-24,12536
+2019,Trauma/stress-related,25-29,19831
+2019,Trauma/stress-related,30-34,19023
+2019,Trauma/stress-related,35-39,17361
+2019,Trauma/stress-related,40-44,13075
+2019,Trauma/stress-related,45-49,11738
+2019,Trauma/stress-related,50-54,10275
+2019,Trauma/stress-related,55-59,8716
+2019,Trauma/stress-related,60-64,5459
+2019,Trauma/stress-related,65+,5699
+2019,Anxiety,0-11,31069
+2019,Anxiety,12-14,17645
+2019,Anxiety,15-17,20423
+2019,Anxiety,18-20,14957
+2019,Anxiety,21-24,18201
+2019,Anxiety,25-29,29125
+2019,Anxiety,30-34,27355
+2019,Anxiety,35-39,23826
+2019,Anxiety,40-44,17793
+2019,Anxiety,45-49,16042
+2019,Anxiety,50-54,14861
+2019,Anxiety,55-59,13966
+2019,Anxiety,60-64,9575
+2019,Anxiety,65+,9913
+2019,ADHD,0-11,72767
+2019,ADHD,12-14,28933
+2019,ADHD,15-17,18117
+2019,ADHD,18-20,6801
+2019,ADHD,21-24,4463
+2019,ADHD,25-29,5487
+2019,ADHD,30-34,4157
+2019,ADHD,35-39,3153
+2019,ADHD,40-44,1965
+2019,ADHD,45-49,1444
+2019,ADHD,50-54,1037
+2019,ADHD,55-59,846
+2019,ADHD,60-64,539
+2019,ADHD,65+,262
+2019,Conduct,0-11,15433
+2019,Conduct,12-14,4303
+2019,Conduct,15-17,4251
+2019,Conduct,18-20,1123
+2019,Conduct,21-24,493
+2019,Conduct,25-29,580
+2019,Conduct,30-34,437
+2019,Conduct,35-39,376
+2019,Conduct,40-44,292
+2019,Conduct,45-49,229
+2019,Conduct,50-54,200
+2019,Conduct,55-59,153
+2019,Conduct,60-64,122
+2019,Conduct,65+,141
+2019,Delirium/dementia,0-11,190
+2019,Delirium/dementia,12-14,107
+2019,Delirium/dementia,15-17,123
+2019,Delirium/dementia,18-20,80
+2019,Delirium/dementia,21-24,58
+2019,Delirium/dementia,25-29,109
+2019,Delirium/dementia,30-34,104
+2019,Delirium/dementia,35-39,101
+2019,Delirium/dementia,40-44,81
+2019,Delirium/dementia,45-49,97
+2019,Delirium/dementia,50-54,149
+2019,Delirium/dementia,55-59,218
+2019,Delirium/dementia,60-64,217
+2019,Delirium/dementia,65+,1201
+2019,Bipolar,0-11,685
+2019,Bipolar,12-14,1384
+2019,Bipolar,15-17,3166
+2019,Bipolar,18-20,5789
+2019,Bipolar,21-24,10317
+2019,Bipolar,25-29,17706
+2019,Bipolar,30-34,18464
+2019,Bipolar,35-39,18917
+2019,Bipolar,40-44,16441
+2019,Bipolar,45-49,16452
+2019,Bipolar,50-54,15976
+2019,Bipolar,55-59,14542
+2019,Bipolar,60-64,9073
+2019,Bipolar,65+,7152
+2019,Depressive,0-11,9752
+2019,Depressive,12-14,21166
+2019,Depressive,15-17,31263
+2019,Depressive,18-20,22743
+2019,Depressive,21-24,26141
+2019,Depressive,25-29,37329
+2019,Depressive,30-34,34342
+2019,Depressive,35-39,32971
+2019,Depressive,40-44,28571
+2019,Depressive,45-49,31228
+2019,Depressive,50-54,34317
+2019,Depressive,55-59,34670
+2019,Depressive,60-64,24144
+2019,Depressive,65+,24017
+2019,Oppositional Defiant,0-11,20363
+2019,Oppositional Defiant,12-14,9833
+2019,Oppositional Defiant,15-17,7140
+2019,Oppositional Defiant,18-20,1198
+2019,Oppositional Defiant,21-24,230
+2019,Oppositional Defiant,25-29,148
+2019,Oppositional Defiant,30-34,76
+2019,Oppositional Defiant,35-39,47
+2019,Oppositional Defiant,40-44,27
+2019,Oppositional Defiant,45-49,20
+2019,Oppositional Defiant,50-54,16
+2019,Oppositional Defiant,55-59,12
+2019,Oppositional Defiant,60-64,7
+2019,Oppositional Defiant,65+,12
+2019,Pervasive Developmental,0-11,9311
+2019,Pervasive Developmental,12-14,2422
+2019,Pervasive Developmental,15-17,2249
+2019,Pervasive Developmental,18-20,1860
+2019,Pervasive Developmental,21-24,1816
+2019,Pervasive Developmental,25-29,1716
+2019,Pervasive Developmental,30-34,895
+2019,Pervasive Developmental,35-39,500
+2019,Pervasive Developmental,40-44,341
+2019,Pervasive Developmental,45-49,253
+2019,Pervasive Developmental,50-54,206
+2019,Pervasive Developmental,55-59,224
+2019,Pervasive Developmental,60-64,126
+2019,Pervasive Developmental,65+,105
+2019,Personality,0-11,50
+2019,Personality,12-14,99
+2019,Personality,15-17,291
+2019,Personality,18-20,1258
+2019,Personality,21-24,2216
+2019,Personality,25-29,3225
+2019,Personality,30-34,2955
+2019,Personality,35-39,2624
+2019,Personality,40-44,2021
+2019,Personality,45-49,1906
+2019,Personality,50-54,1700
+2019,Personality,55-59,1518
+2019,Personality,60-64,980
+2019,Personality,65+,999
+2019,Schizophrenia/Other Psychotic,0-11,206
+2019,Schizophrenia/Other Psychotic,12-14,328
+2019,Schizophrenia/Other Psychotic,15-17,960
+2019,Schizophrenia/Other Psychotic,18-20,3157
+2019,Schizophrenia/Other Psychotic,21-24,7556
+2019,Schizophrenia/Other Psychotic,25-29,13647
+2019,Schizophrenia/Other Psychotic,30-34,14346
+2019,Schizophrenia/Other Psychotic,35-39,15503
+2019,Schizophrenia/Other Psychotic,40-44,14011
+2019,Schizophrenia/Other Psychotic,45-49,15434
+2019,Schizophrenia/Other Psychotic,50-54,17416
+2019,Schizophrenia/Other Psychotic,55-59,20058
+2019,Schizophrenia/Other Psychotic,60-64,15435
+2019,Schizophrenia/Other Psychotic,65+,14699
+2019,Alcohol/Substance Abuse,0-11,17
+2019,Alcohol/Substance Abuse,12-14,22
+2019,Alcohol/Substance Abuse,15-17,134
+2019,Alcohol/Substance Abuse,18-20,213
+2019,Alcohol/Substance Abuse,21-24,346
+2019,Alcohol/Substance Abuse,25-29,701
+2019,Alcohol/Substance Abuse,30-34,844
+2019,Alcohol/Substance Abuse,35-39,659
+2019,Alcohol/Substance Abuse,40-44,478
+2019,Alcohol/Substance Abuse,45-49,435
+2019,Alcohol/Substance Abuse,50-54,372
+2019,Alcohol/Substance Abuse,55-59,304
+2019,Alcohol/Substance Abuse,60-64,143
+2019,Alcohol/Substance Abuse,65+,71
+2019,Other,0-11,21696
+2019,Other,12-14,11186
+2019,Other,15-17,12582
+2019,Other,18-20,8368
+2019,Other,21-24,9243
+2019,Other,25-29,13416
+2019,Other,30-34,11293
+2019,Other,35-39,9828
+2019,Other,40-44,8211
+2019,Other,45-49,8102
+2019,Other,50-54,8164
+2019,Other,55-59,8225
+2019,Other,60-64,5948
+2019,Other,65+,6803
+2020,Trauma/stress-related,0-11,65323
+2020,Trauma/stress-related,12-14,23679
+2020,Trauma/stress-related,15-17,18507
+2020,Trauma/stress-related,18-20,9994
+2020,Trauma/stress-related,21-24,11768
+2020,Trauma/stress-related,25-29,18345
+2020,Trauma/stress-related,30-34,18369
+2020,Trauma/stress-related,35-39,16543
+2020,Trauma/stress-related,40-44,12908
+2020,Trauma/stress-related,45-49,11240
+2020,Trauma/stress-related,50-54,9966
+2020,Trauma/stress-related,55-59,8621
+2020,Trauma/stress-related,60-64,5472
+2020,Trauma/stress-related,65+,6574
+2020,Anxiety,0-11,29537
+2020,Anxiety,12-14,17216
+2020,Anxiety,15-17,18058
+2020,Anxiety,18-20,13053
+2020,Anxiety,21-24,16178
+2020,Anxiety,25-29,25276
+2020,Anxiety,30-34,24291
+2020,Anxiety,35-39,21361
+2020,Anxiety,40-44,16602
+2020,Anxiety,45-49,14254
+2020,Anxiety,50-54,13062
+2020,Anxiety,55-59,12517
+2020,Anxiety,60-64,8914
+2020,Anxiety,65+,9908
+2020,ADHD,0-11,59411
+2020,ADHD,12-14,22795
+2020,ADHD,15-17,13641
+2020,ADHD,18-20,5429
+2020,ADHD,21-24,3954
+2020,ADHD,25-29,4807
+2020,ADHD,30-34,3753
+2020,ADHD,35-39,2865
+2020,ADHD,40-44,1846
+2020,ADHD,45-49,1430
+2020,ADHD,50-54,978
+2020,ADHD,55-59,799
+2020,ADHD,60-64,486
+2020,ADHD,65+,348
+2020,Conduct,0-11,13962
+2020,Conduct,12-14,4012
+2020,Conduct,15-17,3292
+2020,Conduct,18-20,968
+2020,Conduct,21-24,687
+2020,Conduct,25-29,719
+2020,Conduct,30-34,462
+2020,Conduct,35-39,327
+2020,Conduct,40-44,236
+2020,Conduct,45-49,183
+2020,Conduct,50-54,161
+2020,Conduct,55-59,132
+2020,Conduct,60-64,99
+2020,Conduct,65+,166
+2020,Delirium/dementia,0-11,79
+2020,Delirium/dementia,12-14,137
+2020,Delirium/dementia,15-17,186
+2020,Delirium/dementia,18-20,75
+2020,Delirium/dementia,21-24,61
+2020,Delirium/dementia,25-29,97
+2020,Delirium/dementia,30-34,92
+2020,Delirium/dementia,35-39,82
+2020,Delirium/dementia,40-44,85
+2020,Delirium/dementia,45-49,101
+2020,Delirium/dementia,50-54,124
+2020,Delirium/dementia,55-59,183
+2020,Delirium/dementia,60-64,173
+2020,Delirium/dementia,65+,1165
+2020,Bipolar,0-11,619
+2020,Bipolar,12-14,1337
+2020,Bipolar,15-17,2889
+2020,Bipolar,18-20,5271
+2020,Bipolar,21-24,9573
+2020,Bipolar,25-29,16515
+2020,Bipolar,30-34,17480
+2020,Bipolar,35-39,17415
+2020,Bipolar,40-44,15504
+2020,Bipolar,45-49,15216
+2020,Bipolar,50-54,14784
+2020,Bipolar,55-59,13834
+2020,Bipolar,60-64,8895
+2020,Bipolar,65+,7502
+2020,Depressive,0-11,9643
+2020,Depressive,12-14,20611
+2020,Depressive,15-17,27402
+2020,Depressive,18-20,19701
+2020,Depressive,21-24,23598
+2020,Depressive,25-29,33837
+2020,Depressive,30-34,31523
+2020,Depressive,35-39,30137
+2020,Depressive,40-44,26291
+2020,Depressive,45-49,27136
+2020,Depressive,50-54,29843
+2020,Depressive,55-59,31202
+2020,Depressive,60-64,22836
+2020,Depressive,65+,25497
+2020,Oppositional Defiant,0-11,17406
+2020,Oppositional Defiant,12-14,8071
+2020,Oppositional Defiant,15-17,5024
+2020,Oppositional Defiant,18-20,920
+2020,Oppositional Defiant,21-24,460
+2020,Oppositional Defiant,25-29,355
+2020,Oppositional Defiant,30-34,167
+2020,Oppositional Defiant,35-39,49
+2020,Oppositional Defiant,40-44,31
+2020,Oppositional Defiant,45-49,21
+2020,Oppositional Defiant,50-54,12
+2020,Oppositional Defiant,55-59,16
+2020,Oppositional Defiant,60-64,9
+2020,Oppositional Defiant,65+,27
+2020,Pervasive Developmental,0-11,8814
+2020,Pervasive Developmental,12-14,2242
+2020,Pervasive Developmental,15-17,1999
+2020,Pervasive Developmental,18-20,1888
+2020,Pervasive Developmental,21-24,1951
+2020,Pervasive Developmental,25-29,1782
+2020,Pervasive Developmental,30-34,993
+2020,Pervasive Developmental,35-39,585
+2020,Pervasive Developmental,40-44,363
+2020,Pervasive Developmental,45-49,217
+2020,Pervasive Developmental,50-54,222
+2020,Pervasive Developmental,55-59,210
+2020,Pervasive Developmental,60-64,128
+2020,Pervasive Developmental,65+,114
+2020,Personality,0-11,42
+2020,Personality,12-14,110
+2020,Personality,15-17,291
+2020,Personality,18-20,1219
+2020,Personality,21-24,2200
+2020,Personality,25-29,3208
+2020,Personality,30-34,3115
+2020,Personality,35-39,2792
+2020,Personality,40-44,2197
+2020,Personality,45-49,1970
+2020,Personality,50-54,1877
+2020,Personality,55-59,1701
+2020,Personality,60-64,1127
+2020,Personality,65+,1141
+2020,Schizophrenia/Other Psychotic,0-11,163
+2020,Schizophrenia/Other Psychotic,12-14,302
+2020,Schizophrenia/Other Psychotic,15-17,940
+2020,Schizophrenia/Other Psychotic,18-20,3071
+2020,Schizophrenia/Other Psychotic,21-24,7286
+2020,Schizophrenia/Other Psychotic,25-29,13418
+2020,Schizophrenia/Other Psychotic,30-34,14293
+2020,Schizophrenia/Other Psychotic,35-39,15316
+2020,Schizophrenia/Other Psychotic,40-44,13930
+2020,Schizophrenia/Other Psychotic,45-49,14350
+2020,Schizophrenia/Other Psychotic,50-54,15777
+2020,Schizophrenia/Other Psychotic,55-59,18574
+2020,Schizophrenia/Other Psychotic,60-64,14513
+2020,Schizophrenia/Other Psychotic,65+,14402
+2020,Alcohol/Substance Abuse,0-11,20
+2020,Alcohol/Substance Abuse,12-14,24
+2020,Alcohol/Substance Abuse,15-17,69
+2020,Alcohol/Substance Abuse,18-20,186
+2020,Alcohol/Substance Abuse,21-24,391
+2020,Alcohol/Substance Abuse,25-29,744
+2020,Alcohol/Substance Abuse,30-34,920
+2020,Alcohol/Substance Abuse,35-39,820
+2020,Alcohol/Substance Abuse,40-44,606
+2020,Alcohol/Substance Abuse,45-49,448
+2020,Alcohol/Substance Abuse,50-54,398
+2020,Alcohol/Substance Abuse,55-59,353
+2020,Alcohol/Substance Abuse,60-64,230
+2020,Alcohol/Substance Abuse,65+,156
+2020,Other,0-11,18108
+2020,Other,12-14,10124
+2020,Other,15-17,10405
+2020,Other,18-20,6698
+2020,Other,21-24,7667
+2020,Other,25-29,11232
+2020,Other,30-34,9992
+2020,Other,35-39,8629
+2020,Other,40-44,6961
+2020,Other,45-49,6775
+2020,Other,50-54,6789
+2020,Other,55-59,6944
+2020,Other,60-64,5215
+2020,Other,65+,6416

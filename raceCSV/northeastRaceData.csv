@@ -1,0 +1,391 @@
+YEAR,MH1,RACE,COUNT
+2016,Trauma/stress-related,American Indian/Alaska Native,378
+2016,Trauma/stress-related,Asian,764
+2016,Trauma/stress-related,Black/African American,19060
+2016,Trauma/stress-related,Native Hawaiin/Pacific Islander,66
+2016,Trauma/stress-related,White,55860
+2016,Trauma/stress-related,Other Races/Two or More Races,9412
+2016,Anxiety,American Indian/Alaska Native,196
+2016,Anxiety,Asian,370
+2016,Anxiety,Black/African American,6464
+2016,Anxiety,Native Hawaiin/Pacific Islander,36
+2016,Anxiety,White,41009
+2016,Anxiety,Other Races/Two or More Races,5621
+2016,ADHD,American Indian/Alaska Native,129
+2016,ADHD,Asian,308
+2016,ADHD,Black/African American,16194
+2016,ADHD,Native Hawaiin/Pacific Islander,29
+2016,ADHD,White,40730
+2016,ADHD,Other Races/Two or More Races,12009
+2016,Conduct,American Indian/Alaska Native,23
+2016,Conduct,Asian,77
+2016,Conduct,Black/African American,4716
+2016,Conduct,Native Hawaiin/Pacific Islander,11
+2016,Conduct,White,7362
+2016,Conduct,Other Races/Two or More Races,1924
+2016,Delirium/dementia,American Indian/Alaska Native,8
+2016,Delirium/dementia,Asian,53
+2016,Delirium/dementia,Black/African American,781
+2016,Delirium/dementia,Native Hawaiin/Pacific Islander,3
+2016,Delirium/dementia,White,2751
+2016,Delirium/dementia,Other Races/Two or More Races,234
+2016,Bipolar,American Indian/Alaska Native,340
+2016,Bipolar,Asian,556
+2016,Bipolar,Black/African American,16999
+2016,Bipolar,Native Hawaiin/Pacific Islander,80
+2016,Bipolar,White,71669
+2016,Bipolar,Other Races/Two or More Races,8388
+2016,Depressive,American Indian/Alaska Native,509
+2016,Depressive,Asian,1638
+2016,Depressive,Black/African American,29420
+2016,Depressive,Native Hawaiin/Pacific Islander,134
+2016,Depressive,White,107659
+2016,Depressive,Other Races/Two or More Races,22441
+2016,Oppositional Defiant,American Indian/Alaska Native,30
+2016,Oppositional Defiant,Asian,68
+2016,Oppositional Defiant,Black/African American,4993
+2016,Oppositional Defiant,Native Hawaiin/Pacific Islander,8
+2016,Oppositional Defiant,White,8122
+2016,Oppositional Defiant,Other Races/Two or More Races,2116
+2016,Pervasive Developmental,American Indian/Alaska Native,70
+2016,Pervasive Developmental,Asian,678
+2016,Pervasive Developmental,Black/African American,3897
+2016,Pervasive Developmental,Native Hawaiin/Pacific Islander,12
+2016,Pervasive Developmental,White,21931
+2016,Pervasive Developmental,Other Races/Two or More Races,3139
+2016,Personality,American Indian/Alaska Native,56
+2016,Personality,Asian,28
+2016,Personality,Black/African American,2177
+2016,Personality,Native Hawaiin/Pacific Islander,3
+2016,Personality,White,3463
+2016,Personality,Other Races/Two or More Races,620
+2016,Schizophrenia/Other Psychotic,American Indian/Alaska Native,265
+2016,Schizophrenia/Other Psychotic,Asian,1498
+2016,Schizophrenia/Other Psychotic,Black/African American,24098
+2016,Schizophrenia/Other Psychotic,Native Hawaiin/Pacific Islander,78
+2016,Schizophrenia/Other Psychotic,White,42384
+2016,Schizophrenia/Other Psychotic,Other Races/Two or More Races,5436
+2016,Alcohol/Substance Abuse,American Indian/Alaska Native,17
+2016,Alcohol/Substance Abuse,Asian,7
+2016,Alcohol/Substance Abuse,Black/African American,281
+2016,Alcohol/Substance Abuse,Native Hawaiin/Pacific Islander,1
+2016,Alcohol/Substance Abuse,White,1290
+2016,Alcohol/Substance Abuse,Other Races/Two or More Races,137
+2016,Other,American Indian/Alaska Native,81
+2016,Other,Asian,172
+2016,Other,Black/African American,3704
+2016,Other,Native Hawaiin/Pacific Islander,20
+2016,Other,White,13507
+2016,Other,Other Races/Two or More Races,2225
+2017,Trauma/stress-related,American Indian/Alaska Native,812
+2017,Trauma/stress-related,Asian,1553
+2017,Trauma/stress-related,Black/African American,30959
+2017,Trauma/stress-related,Native Hawaiin/Pacific Islander,94
+2017,Trauma/stress-related,White,91059
+2017,Trauma/stress-related,Other Races/Two or More Races,13220
+2017,Anxiety,American Indian/Alaska Native,365
+2017,Anxiety,Asian,770
+2017,Anxiety,Black/African American,9578
+2017,Anxiety,Native Hawaiin/Pacific Islander,43
+2017,Anxiety,White,63751
+2017,Anxiety,Other Races/Two or More Races,7411
+2017,ADHD,American Indian/Alaska Native,250
+2017,ADHD,Asian,519
+2017,ADHD,Black/African American,20526
+2017,ADHD,Native Hawaiin/Pacific Islander,37
+2017,ADHD,White,50789
+2017,ADHD,Other Races/Two or More Races,14083
+2017,Conduct,American Indian/Alaska Native,54
+2017,Conduct,Asian,114
+2017,Conduct,Black/African American,5929
+2017,Conduct,Native Hawaiin/Pacific Islander,8
+2017,Conduct,White,9474
+2017,Conduct,Other Races/Two or More Races,2126
+2017,Delirium/dementia,American Indian/Alaska Native,26
+2017,Delirium/dementia,Asian,90
+2017,Delirium/dementia,Black/African American,1346
+2017,Delirium/dementia,Native Hawaiin/Pacific Islander,3
+2017,Delirium/dementia,White,4513
+2017,Delirium/dementia,Other Races/Two or More Races,410
+2017,Bipolar,American Indian/Alaska Native,613
+2017,Bipolar,Asian,899
+2017,Bipolar,Black/African American,19548
+2017,Bipolar,Native Hawaiin/Pacific Islander,63
+2017,Bipolar,White,84629
+2017,Bipolar,Other Races/Two or More Races,9030
+2017,Depressive,American Indian/Alaska Native,1114
+2017,Depressive,Asian,2702
+2017,Depressive,Black/African American,42532
+2017,Depressive,Native Hawaiin/Pacific Islander,159
+2017,Depressive,White,156339
+2017,Depressive,Other Races/Two or More Races,26217
+2017,Oppositional Defiant,American Indian/Alaska Native,71
+2017,Oppositional Defiant,Asian,119
+2017,Oppositional Defiant,Black/African American,7140
+2017,Oppositional Defiant,Native Hawaiin/Pacific Islander,5
+2017,Oppositional Defiant,White,11044
+2017,Oppositional Defiant,Other Races/Two or More Races,2907
+2017,Pervasive Developmental,American Indian/Alaska Native,72
+2017,Pervasive Developmental,Asian,655
+2017,Pervasive Developmental,Black/African American,3494
+2017,Pervasive Developmental,Native Hawaiin/Pacific Islander,8
+2017,Pervasive Developmental,White,19494
+2017,Pervasive Developmental,Other Races/Two or More Races,2865
+2017,Personality,American Indian/Alaska Native,104
+2017,Personality,Asian,52
+2017,Personality,Black/African American,2785
+2017,Personality,Native Hawaiin/Pacific Islander,4
+2017,Personality,White,5331
+2017,Personality,Other Races/Two or More Races,787
+2017,Schizophrenia/Other Psychotic,American Indian/Alaska Native,736
+2017,Schizophrenia/Other Psychotic,Asian,2415
+2017,Schizophrenia/Other Psychotic,Black/African American,37684
+2017,Schizophrenia/Other Psychotic,Native Hawaiin/Pacific Islander,87
+2017,Schizophrenia/Other Psychotic,White,62075
+2017,Schizophrenia/Other Psychotic,Other Races/Two or More Races,7240
+2017,Alcohol/Substance Abuse,American Indian/Alaska Native,363
+2017,Alcohol/Substance Abuse,Asian,210
+2017,Alcohol/Substance Abuse,Black/African American,6113
+2017,Alcohol/Substance Abuse,Native Hawaiin/Pacific Islander,6
+2017,Alcohol/Substance Abuse,White,13905
+2017,Alcohol/Substance Abuse,Other Races/Two or More Races,1179
+2017,Other,American Indian/Alaska Native,618
+2017,Other,Asian,1244
+2017,Other,Black/African American,14909
+2017,Other,Native Hawaiin/Pacific Islander,33
+2017,Other,White,41827
+2017,Other,Other Races/Two or More Races,5892
+2018,Trauma/stress-related,American Indian/Alaska Native,838
+2018,Trauma/stress-related,Asian,1754
+2018,Trauma/stress-related,Black/African American,33086
+2018,Trauma/stress-related,Native Hawaiin/Pacific Islander,93
+2018,Trauma/stress-related,White,94231
+2018,Trauma/stress-related,Other Races/Two or More Races,13949
+2018,Anxiety,American Indian/Alaska Native,388
+2018,Anxiety,Asian,887
+2018,Anxiety,Black/African American,10463
+2018,Anxiety,Native Hawaiin/Pacific Islander,56
+2018,Anxiety,White,68634
+2018,Anxiety,Other Races/Two or More Races,8149
+2018,ADHD,American Indian/Alaska Native,237
+2018,ADHD,Asian,596
+2018,ADHD,Black/African American,20263
+2018,ADHD,Native Hawaiin/Pacific Islander,43
+2018,ADHD,White,51118
+2018,ADHD,Other Races/Two or More Races,12573
+2018,Conduct,American Indian/Alaska Native,72
+2018,Conduct,Asian,110
+2018,Conduct,Black/African American,5379
+2018,Conduct,Native Hawaiin/Pacific Islander,9
+2018,Conduct,White,9135
+2018,Conduct,Other Races/Two or More Races,1886
+2018,Delirium/dementia,American Indian/Alaska Native,22
+2018,Delirium/dementia,Asian,82
+2018,Delirium/dementia,Black/African American,1234
+2018,Delirium/dementia,Native Hawaiin/Pacific Islander,1
+2018,Delirium/dementia,White,4291
+2018,Delirium/dementia,Other Races/Two or More Races,440
+2018,Bipolar,American Indian/Alaska Native,563
+2018,Bipolar,Asian,822
+2018,Bipolar,Black/African American,16138
+2018,Bipolar,Native Hawaiin/Pacific Islander,49
+2018,Bipolar,White,72536
+2018,Bipolar,Other Races/Two or More Races,7381
+2018,Depressive,American Indian/Alaska Native,1100
+2018,Depressive,Asian,2927
+2018,Depressive,Black/African American,40990
+2018,Depressive,Native Hawaiin/Pacific Islander,179
+2018,Depressive,White,152611
+2018,Depressive,Other Races/Two or More Races,23780
+2018,Oppositional Defiant,American Indian/Alaska Native,68
+2018,Oppositional Defiant,Asian,136
+2018,Oppositional Defiant,Black/African American,6962
+2018,Oppositional Defiant,Native Hawaiin/Pacific Islander,8
+2018,Oppositional Defiant,White,10832
+2018,Oppositional Defiant,Other Races/Two or More Races,2940
+2018,Pervasive Developmental,American Indian/Alaska Native,60
+2018,Pervasive Developmental,Asian,615
+2018,Pervasive Developmental,Black/African American,2632
+2018,Pervasive Developmental,Native Hawaiin/Pacific Islander,9
+2018,Pervasive Developmental,White,12792
+2018,Pervasive Developmental,Other Races/Two or More Races,2189
+2018,Personality,American Indian/Alaska Native,108
+2018,Personality,Asian,48
+2018,Personality,Black/African American,2831
+2018,Personality,Native Hawaiin/Pacific Islander,4
+2018,Personality,White,5527
+2018,Personality,Other Races/Two or More Races,875
+2018,Schizophrenia/Other Psychotic,American Indian/Alaska Native,701
+2018,Schizophrenia/Other Psychotic,Asian,2374
+2018,Schizophrenia/Other Psychotic,Black/African American,36799
+2018,Schizophrenia/Other Psychotic,Native Hawaiin/Pacific Islander,98
+2018,Schizophrenia/Other Psychotic,White,59762
+2018,Schizophrenia/Other Psychotic,Other Races/Two or More Races,7782
+2018,Alcohol/Substance Abuse,American Indian/Alaska Native,357
+2018,Alcohol/Substance Abuse,Asian,195
+2018,Alcohol/Substance Abuse,Black/African American,6176
+2018,Alcohol/Substance Abuse,Native Hawaiin/Pacific Islander,9
+2018,Alcohol/Substance Abuse,White,13930
+2018,Alcohol/Substance Abuse,Other Races/Two or More Races,1179
+2018,Other,American Indian/Alaska Native,650
+2018,Other,Asian,1430
+2018,Other,Black/African American,18206
+2018,Other,Native Hawaiin/Pacific Islander,40
+2018,Other,White,52180
+2018,Other,Other Races/Two or More Races,7283
+2019,Trauma/stress-related,American Indian/Alaska Native,787
+2019,Trauma/stress-related,Asian,1926
+2019,Trauma/stress-related,Black/African American,33476
+2019,Trauma/stress-related,Native Hawaiin/Pacific Islander,103
+2019,Trauma/stress-related,White,95605
+2019,Trauma/stress-related,Other Races/Two or More Races,13117
+2019,Anxiety,American Indian/Alaska Native,389
+2019,Anxiety,Asian,966
+2019,Anxiety,Black/African American,11151
+2019,Anxiety,Native Hawaiin/Pacific Islander,79
+2019,Anxiety,White,70779
+2019,Anxiety,Other Races/Two or More Races,8330
+2019,ADHD,American Indian/Alaska Native,247
+2019,ADHD,Asian,580
+2019,ADHD,Black/African American,18611
+2019,ADHD,Native Hawaiin/Pacific Islander,42
+2019,ADHD,White,49058
+2019,ADHD,Other Races/Two or More Races,11230
+2019,Conduct,American Indian/Alaska Native,47
+2019,Conduct,Asian,109
+2019,Conduct,Black/African American,4885
+2019,Conduct,Native Hawaiin/Pacific Islander,4
+2019,Conduct,White,8488
+2019,Conduct,Other Races/Two or More Races,1472
+2019,Delirium/dementia,American Indian/Alaska Native,26
+2019,Delirium/dementia,Asian,95
+2019,Delirium/dementia,Black/African American,1158
+2019,Delirium/dementia,Native Hawaiin/Pacific Islander,2
+2019,Delirium/dementia,White,3816
+2019,Delirium/dementia,Other Races/Two or More Races,387
+2019,Bipolar,American Indian/Alaska Native,572
+2019,Bipolar,Asian,843
+2019,Bipolar,Black/African American,16029
+2019,Bipolar,Native Hawaiin/Pacific Islander,61
+2019,Bipolar,White,71063
+2019,Bipolar,Other Races/Two or More Races,7274
+2019,Depressive,American Indian/Alaska Native,1096
+2019,Depressive,Asian,3011
+2019,Depressive,Black/African American,40308
+2019,Depressive,Native Hawaiin/Pacific Islander,180
+2019,Depressive,White,151343
+2019,Depressive,Other Races/Two or More Races,23409
+2019,Oppositional Defiant,American Indian/Alaska Native,63
+2019,Oppositional Defiant,Asian,141
+2019,Oppositional Defiant,Black/African American,6454
+2019,Oppositional Defiant,Native Hawaiin/Pacific Islander,6
+2019,Oppositional Defiant,White,10266
+2019,Oppositional Defiant,Other Races/Two or More Races,2534
+2019,Pervasive Developmental,American Indian/Alaska Native,51
+2019,Pervasive Developmental,Asian,574
+2019,Pervasive Developmental,Black/African American,2221
+2019,Pervasive Developmental,Native Hawaiin/Pacific Islander,7
+2019,Pervasive Developmental,White,10301
+2019,Pervasive Developmental,Other Races/Two or More Races,1755
+2019,Personality,American Indian/Alaska Native,110
+2019,Personality,Asian,46
+2019,Personality,Black/African American,2800
+2019,Personality,Native Hawaiin/Pacific Islander,6
+2019,Personality,White,5397
+2019,Personality,Other Races/Two or More Races,875
+2019,Schizophrenia/Other Psychotic,American Indian/Alaska Native,703
+2019,Schizophrenia/Other Psychotic,Asian,2454
+2019,Schizophrenia/Other Psychotic,Black/African American,36467
+2019,Schizophrenia/Other Psychotic,Native Hawaiin/Pacific Islander,90
+2019,Schizophrenia/Other Psychotic,White,58712
+2019,Schizophrenia/Other Psychotic,Other Races/Two or More Races,7743
+2019,Alcohol/Substance Abuse,American Indian/Alaska Native,347
+2019,Alcohol/Substance Abuse,Asian,196
+2019,Alcohol/Substance Abuse,Black/African American,5914
+2019,Alcohol/Substance Abuse,Native Hawaiin/Pacific Islander,4
+2019,Alcohol/Substance Abuse,White,13034
+2019,Alcohol/Substance Abuse,Other Races/Two or More Races,928
+2019,Other,American Indian/Alaska Native,631
+2019,Other,Asian,1445
+2019,Other,Black/African American,18552
+2019,Other,Native Hawaiin/Pacific Islander,43
+2019,Other,White,52505
+2019,Other,Other Races/Two or More Races,7180
+2020,Trauma/stress-related,American Indian/Alaska Native,835
+2020,Trauma/stress-related,Asian,2014
+2020,Trauma/stress-related,Black/African American,34939
+2020,Trauma/stress-related,Native Hawaiin/Pacific Islander,132
+2020,Trauma/stress-related,White,97185
+2020,Trauma/stress-related,Other Races/Two or More Races,13765
+2020,Anxiety,American Indian/Alaska Native,434
+2020,Anxiety,Asian,1131
+2020,Anxiety,Black/African American,12131
+2020,Anxiety,Native Hawaiin/Pacific Islander,86
+2020,Anxiety,White,75437
+2020,Anxiety,Other Races/Two or More Races,9195
+2020,ADHD,American Indian/Alaska Native,223
+2020,ADHD,Asian,651
+2020,ADHD,Black/African American,18778
+2020,ADHD,Native Hawaiin/Pacific Islander,47
+2020,ADHD,White,49953
+2020,ADHD,Other Races/Two or More Races,11022
+2020,Conduct,American Indian/Alaska Native,49
+2020,Conduct,Asian,113
+2020,Conduct,Black/African American,4540
+2020,Conduct,Native Hawaiin/Pacific Islander,2
+2020,Conduct,White,7928
+2020,Conduct,Other Races/Two or More Races,1351
+2020,Delirium/dementia,American Indian/Alaska Native,28
+2020,Delirium/dementia,Asian,86
+2020,Delirium/dementia,Black/African American,1009
+2020,Delirium/dementia,Native Hawaiin/Pacific Islander,2
+2020,Delirium/dementia,White,3617
+2020,Delirium/dementia,Other Races/Two or More Races,367
+2020,Bipolar,American Indian/Alaska Native,543
+2020,Bipolar,Asian,840
+2020,Bipolar,Black/African American,15927
+2020,Bipolar,Native Hawaiin/Pacific Islander,65
+2020,Bipolar,White,70425
+2020,Bipolar,Other Races/Two or More Races,7194
+2020,Depressive,American Indian/Alaska Native,1122
+2020,Depressive,Asian,3073
+2020,Depressive,Black/African American,39762
+2020,Depressive,Native Hawaiin/Pacific Islander,211
+2020,Depressive,White,150531
+2020,Depressive,Other Races/Two or More Races,23182
+2020,Oppositional Defiant,American Indian/Alaska Native,59
+2020,Oppositional Defiant,Asian,117
+2020,Oppositional Defiant,Black/African American,5844
+2020,Oppositional Defiant,Native Hawaiin/Pacific Islander,6
+2020,Oppositional Defiant,White,9617
+2020,Oppositional Defiant,Other Races/Two or More Races,2304
+2020,Pervasive Developmental,American Indian/Alaska Native,41
+2020,Pervasive Developmental,Asian,462
+2020,Pervasive Developmental,Black/African American,1727
+2020,Pervasive Developmental,Native Hawaiin/Pacific Islander,5
+2020,Pervasive Developmental,White,7681
+2020,Pervasive Developmental,Other Races/Two or More Races,1374
+2020,Personality,American Indian/Alaska Native,111
+2020,Personality,Asian,53
+2020,Personality,Black/African American,2762
+2020,Personality,Native Hawaiin/Pacific Islander,2
+2020,Personality,White,5642
+2020,Personality,Other Races/Two or More Races,853
+2020,Schizophrenia/Other Psychotic,American Indian/Alaska Native,651
+2020,Schizophrenia/Other Psychotic,Asian,2389
+2020,Schizophrenia/Other Psychotic,Black/African American,36124
+2020,Schizophrenia/Other Psychotic,Native Hawaiin/Pacific Islander,99
+2020,Schizophrenia/Other Psychotic,White,57596
+2020,Schizophrenia/Other Psychotic,Other Races/Two or More Races,7651
+2020,Alcohol/Substance Abuse,American Indian/Alaska Native,343
+2020,Alcohol/Substance Abuse,Asian,190
+2020,Alcohol/Substance Abuse,Black/African American,5881
+2020,Alcohol/Substance Abuse,Native Hawaiin/Pacific Islander,0
+2020,Alcohol/Substance Abuse,White,12683
+2020,Alcohol/Substance Abuse,Other Races/Two or More Races,908
+2020,Other,American Indian/Alaska Native,636
+2020,Other,Asian,1580
+2020,Other,Black/African American,18017
+2020,Other,Native Hawaiin/Pacific Islander,56
+2020,Other,White,50596
+2020,Other,Other Races/Two or More Races,7136
